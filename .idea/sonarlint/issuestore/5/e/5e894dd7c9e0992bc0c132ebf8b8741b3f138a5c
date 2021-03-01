@@ -1,0 +1,20 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·‡âé
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+]
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ŠÒá
+c
+java:S4488 "HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(²õşÿÿÿÿ
+c
+java:S4488("HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(£¨•àÿÿÿÿÿ
+^
+java:S44880"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(É•Äò
+c
+java:S44888"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(˜€¥èüÿÿÿÿ
+]
+java:S4488@"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"( í²y
+c
+java:S4488H"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(’ì»¤úÿÿÿÿ
+M
+java:S1135M"2Complete the task associated to this TODO comment.(ú¤Äùÿÿÿÿ

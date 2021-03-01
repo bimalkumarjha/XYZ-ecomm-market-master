@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®š¥ç
+]
+java:S2259"GA "NullPointerException" could be thrown; "getCache()" can return null.(ªâãß
+]
+java:S2259"GA "NullPointerException" could be thrown; "getCache()" can return null.(Ù¬æõ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
